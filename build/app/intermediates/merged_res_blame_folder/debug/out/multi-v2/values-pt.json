@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.expense_.app-mergeDebugResources-9:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SEAN\\.gradle\\caches\\transforms-3\\6453ef9bd3b5f709293ffc42879fd140\\transformed\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
